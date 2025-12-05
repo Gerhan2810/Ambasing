@@ -2,7 +2,7 @@ import { connect } from "cloudflare:sockets";
 
 // Variables
 let serviceName = "ambatubas";
-let APP_DOMAIN = "pages.dev";
+let APP_DOMAIN = "ambasing.web.id";
 
 let prxIP = "";
 let cachedPrxList = [];
